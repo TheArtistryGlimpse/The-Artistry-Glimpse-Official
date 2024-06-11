@@ -90,13 +90,13 @@ export const BtnList = [
     newTab: true,
   },
   {
-    label: "X",
+    label: "Pinterest",
     link: "https://in.pinterest.com/theartistryglimpse/",
     icon: "pinterest",
     newTab: true,
   },
   {
-    label: "Facebook",
+    label: "Devinaiart",
     link: "https://www.deviantart.com/theartistryglimpse",
     icon: "deviantart",
     newTab: true,
