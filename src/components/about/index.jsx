@@ -11,7 +11,7 @@ const AboutDetails = () => {
             🌟 About Us:
           </h2>
           <p className='font-light text-xs sm:text-sm md:text-base'>
-            We are a community of passionate artists, creators, and art enthusiasts dedicated to sharing and celebrating the beauty of creativity. Whether you're an aspiring artist, a seasoned professional, or simply someone who appreciates art in all its forms, you've found your creative haven here!
+            We are a community of passionate artists, creators, and art enthusiasts dedicated to sharing and celebrating the beauty of creativity. Whether you&apos;re an aspiring artist, a seasoned professional, or simply someone who appreciates art in all its forms, you&apos;ve found your creative haven here!
           </p>
         </ItemLayout>
 
@@ -32,9 +32,9 @@ const AboutDetails = () => {
             What We Offer
           </h2>
           <p className='font-light'>
-            🔹Inspiring Artwork: Explore a diverse range of artwork spanning various mediums, styles, and themes. From stunning paintings and intricate illustrations to captivating photography and digital art, there's something for everyone to enjoy!<br />
+            🔹Inspiring Artwork: Explore a diverse range of artwork spanning various mediums, styles, and themes. From stunning paintings and intricate illustrations to captivating photography and digital art, there&apos;s something for everyone to enjoy!<br />
             🔹Creative Community: Join our vibrant community of artists and art lovers from around the globe. Share your work, connect with like-minded individuals, and engage in lively discussions about all things art-related.<br />
-            🔹Artistic Resources: Access helpful resources, tips, and tutorials to enhance your artistic skills and unleash your creative potential. Whether you're looking to learn new techniques, find inspiration, or hone your craft, we've got you covered!
+            🔹Artistic Resources: Access helpful resources, tips, and tutorials to enhance your artistic skills and unleash your creative potential. Whether you&apos;re looking to learn new techniques, find inspiration, or hone your craft, we&apos;ve got you covered!
           </p>
         </ItemLayout>
 
@@ -45,7 +45,7 @@ const AboutDetails = () => {
           <p className='font-light'>
             At The Artistry Glimpse, our mission is to inspire, uplift, and connect individuals through the transformative power of art. We believe art transcends boundaries, evokes deep emotions, and sparks meaningful conversations. Our platform celebrates this potential, providing a vibrant space where creativity flourishes and connections are forged.
 
-            We are committed to fostering a supportive and inclusive environment for artists of all backgrounds and skill levels. Whether you're an emerging artist, a seasoned professional, or an art enthusiast, you'll find your place here.
+            We are committed to fostering a supportive and inclusive environment for artists of all backgrounds and skill levels. Whether you&apos;re an emerging artist, a seasoned professional, or an art enthusiast, you&apos;ll find your place here.
 
             Our platform offers artists a stage to showcase their talent and share their unique perspectives with a global audience. We believe in the power of collaboration, creating opportunities for artists to connect, share ideas, and inspire each other. We aim to nurture creativity, celebrate innovation, and value artistic expression.
 
@@ -53,7 +53,7 @@ const AboutDetails = () => {
 
             Beyond showcasing art, we provide resources such as tutorials, tips, and inspirational content to help artists develop their skills and unlock their creative potential. We believe in lifelong learning and offer the tools and support needed for artistic growth.
 
-            Join us at The Artistry Glimpse and be part of our thriving community. Let’s create, connect, and inspire together. Celebrate the beauty of art and the endless possibilities it offers. Let's make a positive impact through creativity. Welcome to The Artistry Glimpse!
+            Join us at The Artistry Glimpse and be part of our thriving community. Let&apos;s create, connect, and inspire together. Celebrate the beauty of art and the endless possibilities it offers. Let&apos;s make a positive impact through creativity. Welcome to The Artistry Glimpse!
           </p>
         </ItemLayout>
 
@@ -62,7 +62,7 @@ const AboutDetails = () => {
             📣 Stay Connected:
           </h2>
           <p className='font-light'>
-            Ready to embark on a journey of artistic discovery? Follow us to stay updated on the latest artwork, community events, and creative endeavors. Don't forget to tag us in your posts and use our official hashtag #TheArtistryGlimpse for a chance to be featured!
+            Ready to embark on a journey of artistic discovery? Follow us to stay updated on the latest artwork, community events, and creative endeavors. Don&apos;t forget to tag us in your posts and use our official hashtag #TheArtistryGlimpse for a chance to be featured!
           </p>
         </ItemLayout>
       </div>
