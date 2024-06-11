@@ -31,7 +31,8 @@ const Sound = () => {
     const [isPlaying, setIsPlaying] = useState(false);
     const [showModal, setShowModal] = useState(false);
 
-    const handleFirstUserInteraction = () => {
+    useEffect(() => {
+        const handleFirstUserInteraction = () => {
         const musicConsent = localStorage.getItem("musicConsent");
         if (musicConsent === "true" && !isPlaying) {
             audioRef.current.play()
@@ -41,7 +42,7 @@ const Sound = () => {
             document.removeEventListener(event, handleFirstUserInteraction)
         )
     }
-    useEffect(() => {
+        
         const consent = localStorage.getItem("musicConsent")
         const consentTime = localStorage.getItem("consentTime")
         if (consent && consentTime &&
