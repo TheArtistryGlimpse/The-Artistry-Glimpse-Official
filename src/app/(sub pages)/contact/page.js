@@ -14,7 +14,7 @@ export default function Contact() {
                         summon the artist
                     </h1>
                     <p className="text-center font-light text-sm xs:text-base">
-                        Got questions, feedback, or ideas? We&apos;d love to hear from you! Feel free to reach out to us via direct message or email.
+                        Got questions, feedback, or ideas? We&apos;d love to hear from you! Feel free to reach out to us via direct message or email. Your input is invaluable as we continue to grow and evolve our community.
                     </p>
                 </div>
                 <Form />
