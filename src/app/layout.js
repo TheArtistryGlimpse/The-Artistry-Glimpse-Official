@@ -2,7 +2,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import clsx from "clsx";
 import FireFLiesBackground from "@/components/FireFLiesBackground";
-import Sound from "@/components/sound";
+import Sound from "@/components/Sound";
 
 const inter = Inter({
   subsets: ["latin"],
